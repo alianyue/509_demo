@@ -15,3 +15,5 @@ embed code `some code` in line
 
 ---
 ![imaginarylandscape]IMG_0677.JPG
+random changes
+test for the new command
