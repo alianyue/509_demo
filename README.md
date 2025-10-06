@@ -17,3 +17,7 @@ embed code `some code` in line
 ![imaginarylandscape]IMG_0677.JPG
 random changes
 test for the new command
+wk 2 class new snapshot
+local workspace, stage, local repository, online repository
+
+this is for feature branch manage
